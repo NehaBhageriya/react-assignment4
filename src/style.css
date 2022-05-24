@@ -1,0 +1,32 @@
+.navbar{
+    background-color: rgb(182, 41, 182);
+    color: white;
+    font-style: italic;
+    font-size: 6vh;   
+}
+.navbar-nav{
+    background-color: rgb(182, 41, 182);
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
+.nav-link{
+    padding-left:200px;
+    color: white;   
+}
+.btn{
+    border: 2px solid rgb(182, 41, 182);
+    border-radius: 20px;
+    background-color: rgb(236, 203, 236);
+}
+.sub_head{
+    margin:50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.table_data{
+    border: 2px solid rgb(236, 203, 236);
+    margin:50px;
+
+}
